@@ -1,0 +1,48 @@
+@font-face {
+  font-family: "D-DIN";
+  src: url("./fonts/D-DIN.OTF") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "D-DIN Condensed";
+  src: url("./fonts/D-DINCONDENSED.OTF") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beau";
+  src: url("./fonts/FONTSPRING-DEMO-BEAUREG.OTF") format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beau";
+  src: url("./fonts/FONTSPRING-DEMO-BEAUBOLD.OTF") format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Beau";
+  src: url("./fonts/FONTSPRING-DEMO-BEAUBOLI.OTF") format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Beau";
+  src: url("./fonts/FONTSPRING-DEMO-BEAUREGI.OTF") format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: "Retroica";
+  src: url("./fonts/RETROICA.TTF") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
